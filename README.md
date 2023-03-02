@@ -55,8 +55,21 @@ A full stack travel planner website dedicated to foreigners planning their stays
 ![map2](https://user-images.githubusercontent.com/114328995/219990892-6674c524-556d-4b5d-8971-7dae57b74974.gif)
 
 
-# 💅🎨 **[Studio Design Shop](https://github.com/Eric-Barajas/Python_2/tree/master/first_project/nails_and_paintings)**
+## 💅🎨 **[Studio Design Shop](https://github.com/Eric-Barajas/Python_2/tree/master/first_project/nails_and_paintings)**
 
 <h4> 🖼️ Layout </h4>
+
+## 🎹🎧 **[Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
+
+<h4> 🎷 Fake Spotify </h4>
+
+![Spotify-Clone](https://user-images.githubusercontent.com/114328995/222381187-2cad519c-c386-4157-9d1f-b67392552818.gif)
+
+
+<h4> 🎸 Actual Spotify </h4>
+
+<img width="600px" alt="real-spotify" src="https://user-images.githubusercontent.com/114328995/222381798-ad6b6fd5-937f-486a-bc6b-bdd489ffdf5e.png">
+
+#
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eric-Barajas&theme=submarine-flowers&hide_border=true&border_radius=25&mode=weekly)](https://git.io/streak-stats)
