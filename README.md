@@ -63,12 +63,16 @@ A full stack travel planner website dedicated to foreigners planning their stays
 
 <h4> 🎷 Fake Spotify </h4>
 
-![Spotify-Clone](https://user-images.githubusercontent.com/114328995/222381187-2cad519c-c386-4157-9d1f-b67392552818.gif)
+<div width="300px">
+  <img src="./img/Spotify-Clone.gif" alt="spotify clone" />
+</div>
 
 
 <h4> 🎸 Actual Spotify </h4>
 
-<img width="600px" alt="real-spotify" src="https://user-images.githubusercontent.com/114328995/222381798-ad6b6fd5-937f-486a-bc6b-bdd489ffdf5e.png">
+<div>
+  <img width="600px" src="./img/real-spotify.png" alt="real spotify" />
+</div>
 
 #
 
