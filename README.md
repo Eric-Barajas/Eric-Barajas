@@ -11,7 +11,7 @@ ___
 ## Table of Contents
 * [⛩️🇯🇵 Tokyo Travel Planner](#Tokyo-Travel-Planner)
 * [💅🎨 Studio Design Shop](#Studio-Design-Shop)
-* [🎹🎧 Spotify Imitation](#Spotify-Imitation)
+* [🎹🎧Spotify Imitation](#Spotify-Imitation)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 ___
 
-## **[🎹🎧 Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
+## **[🎹🎧Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
 
 <h4> 🎷 Fake Spotify </h4>
 
