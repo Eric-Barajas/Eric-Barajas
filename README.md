@@ -9,9 +9,9 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
 #
 
 ## Table of Contents
-* [Tokyo Travel Planner](#Tokyo_Travel_Planner)
-* [Studio Design Shop](#Studio_Design_Shop)
-* [Spotify Imitation](#Spotify_Imitation)
+* [Tokyo Travel Planner](#Tokyo-Travel-Planner)
+* [Studio Design Shop](#Studio-Design-Shop)
+* [Spotify Imitation](#Spotify-Imitation)
 
 #
 
