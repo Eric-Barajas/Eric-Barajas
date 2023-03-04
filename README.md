@@ -10,8 +10,8 @@ ___
 
 ## Table of Contents
 * [Tokyo Travel Planner](#Tokyo-Travel-Planner)
-* [Studio Design Shop](#Studio-Design-Shop)
-* [Spotify Imitation](#Spotify-Imitation)
+* [💅🎨Studio Design Shop](#Studio-Design-Shop)
+* [🎹🎧Spotify Imitation](#Spotify-Imitation)
 
 ___
 
@@ -46,7 +46,8 @@ ___
 
 ___
 
-## ⛩️🇯🇵 **[Tokyo Travel Planner](https://github.com/Eric-Barajas/DestinationTokyo)** 
+<a href="https://github.com/Eric-Barajas/DestinationTokyo"></a>
+## ⛩️🇯🇵Tokyo Travel Planner
 Tech Stack: Java, MySQL, Spring Boot, BootStrap
 
 A full stack travel planner website dedicated to foreigners planning their stays in Tokyo. In addition to providing users the ability to explore all tokyo has to offer. Users also have the ability to write their own reviews on the locations they traveled to, as well as revise and delete their own comments.
@@ -75,7 +76,7 @@ ___
 
 ___
 
-## 🎹🎧 **[Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
+## **[🎹🎧Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
 
 <h4> 🎷 Fake Spotify </h4>
 
