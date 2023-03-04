@@ -9,9 +9,9 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
 ___
 
 ## Table of Contents
-* [Tokyo Travel Planner](#Tokyo-Travel-Planner)
-* [💅🎨Studio Design Shop](#Studio-Design-Shop)
-* [🎹🎧Spotify Imitation](#Spotify-Imitation)
+* [⛩️🇯🇵 Tokyo Travel Planner](#Tokyo-Travel-Planner)
+* [💅🎨 Studio Design Shop](#Studio-Design-Shop)
+* [🎹🎧 Spotify Imitation](#Spotify-Imitation)
 
 ___
 
@@ -46,8 +46,7 @@ ___
 
 ___
 
-<a href="https://github.com/Eric-Barajas/DestinationTokyo"></a>
-## ⛩️🇯🇵Tokyo Travel Planner
+## **[⛩️🇯🇵 Tokyo Travel Planner](https://github.com/Eric-Barajas/DestinationTokyo)** 
 Tech Stack: Java, MySQL, Spring Boot, BootStrap
 
 A full stack travel planner website dedicated to foreigners planning their stays in Tokyo. In addition to providing users the ability to explore all tokyo has to offer. Users also have the ability to write their own reviews on the locations they traveled to, as well as revise and delete their own comments.
@@ -68,7 +67,7 @@ A full stack travel planner website dedicated to foreigners planning their stays
 
 ___
 
-## 💅🎨 **[Studio Design Shop](https://github.com/Eric-Barajas/Python_2/tree/master/first_project/nails_and_paintings)**
+##  **[💅🎨 Studio Design Shop](https://github.com/Eric-Barajas/Python_2/tree/master/first_project/nails_and_paintings)**
 
 <h4> 🖼️ Layout </h4>
 
@@ -76,7 +75,7 @@ ___
 
 ___
 
-## **[🎹🎧Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
+## **[🎹🎧 Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
 
 <h4> 🎷 Fake Spotify </h4>
 
