@@ -8,6 +8,13 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
 
 #
 
+## Table of Contents
+* [Tokyo Travel Planner](#Tokyo_Travel_Planner)
+* [Studio Design Shop](#Studio_Design_Shop)
+* [Spotify Imitation](#Spotify_Imitation)
+
+#
+
 ## Where to find me
 <a href="https://www.linkedin.com/in/eric-barajas-93a580257/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
@@ -33,7 +40,9 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
     <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-<br/>
+<div style="margin-top:40px;">
+  <br/>
+</div>
 
 #
 
@@ -54,10 +63,17 @@ A full stack travel planner website dedicated to foreigners planning their stays
 
 ![map2](https://user-images.githubusercontent.com/114328995/219990892-6674c524-556d-4b5d-8971-7dae57b74974.gif)
 
+[Return to Table of Contents](#Table-of-Contents)
+
+#
 
 ## 💅🎨 **[Studio Design Shop](https://github.com/Eric-Barajas/Python_2/tree/master/first_project/nails_and_paintings)**
 
 <h4> 🖼️ Layout </h4>
+
+[Return to Table of Contents](#Table-of-Contents)
+
+#
 
 ## 🎹🎧 **[Spotify Imitation](https://github.com/Eric-Barajas/spotify-clone-app)**
 
@@ -73,6 +89,10 @@ A full stack travel planner website dedicated to foreigners planning their stays
 <div>
   <img width="600px" src="./img/real-spotify.png" alt="real spotify" />
 </div>
+
+[Return to Table of Contents](#Table-of-Contents)
+
+
 
 #
 
