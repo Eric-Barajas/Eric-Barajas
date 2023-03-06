@@ -67,7 +67,7 @@ A full stack travel planner website dedicated to foreigners planning their stays
 
 ___
 
-##  **[💅🎨Studio Design Shop](https://github.com/Eric-Barajas/Python_2/tree/master/first_project/nails_and_paintings)**
+##  **[💅🎨Studio Design Shop](https://github.com/Eric-Barajas/nails_and_paintings)**
 
 <h4> 🖼️ Layout </h4>
 
