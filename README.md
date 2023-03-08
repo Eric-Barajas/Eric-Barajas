@@ -69,7 +69,17 @@ ___
 
 ##  **[💅🎨Studio Design Shop](https://github.com/Eric-Barajas/nails_and_paintings)**
 
-<h4> 🖼️ Layout </h4>
+<h4> ✍️ You first Log in or make an account  </h4>
+
+<img src="./img/login-registration.png" alt="login/registration page" width="500">  
+
+<h4> 🛍️ You browse the items and select add whatever item you want to your cart </h4>
+
+<img src="./img/dropdown.gif" alt="Choose a data file" width="500">  
+
+<h4> 🛒 You can click on the cart icon to see the list of items you have added to your cart </h4>
+
+<img src="./img/cart.gif" alt="Items in cart" width="500">  
 
 [Return to Table of Contents](#Table-of-Contents)
 
