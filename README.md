@@ -12,6 +12,7 @@ ___
 * [⛩️🇯🇵Tokyo Travel Planner](#Tokyo-Travel-Planner)
 * [💅🎨Studio Design Shop](#Studio-Design-Shop)
 * [🎹🎧Spotify Imitation](#Spotify-Imitation)
+* [📱🖥️Make A Friend](#Make-A-Friend)
 
 ___
 
@@ -98,6 +99,25 @@ ___
 
 <div>
   <img width="600px" src="./img/real-spotify.png" alt="real spotify" />
+</div>
+
+[Return to Table of Contents](#Table-of-Contents)
+
+___
+
+## **[📱🖥️Make A Friend](https://github.com/Eric-Barajas/make_a_friend)**
+
+<h4> 📸 Posting </h4>
+
+<div width="300px">
+  <img src="./img/posting_g.gif" alt="making a post" />
+</div>
+
+
+<h4> 🙊 Commenting </h4>
+
+<div>
+  <img width="600px" src="./img/commenting_gif.gif" alt="making comments" />
 </div>
 
 [Return to Table of Contents](#Table-of-Contents)
